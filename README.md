@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irene</h1>
-<h3 align="center">I'm a data-driven and tech loving business professional.</h3>
+<h3 align="center">I'm a data-driven and customer-loving business & tech professional.</h3>
 
-- 💬 Ask me about **finance, investing, and the travel & hospitality space**
+- 💬 Ask me about **product, design, and customer-driven development**
 
-- 🌱 I’m currently learning **to translate data into visual and actionable insights with SQL and Tableau**
+- 🌱 I’m currently in business school **learning how to bring tech-enabled ideas and innovations to scale**
 
 - 🤸‍♀️ Away from my desk **you can find me <a href="https://instagram.com/waves.irene" target="blank">surfing</a> in the ocean, hiking in the forests, or skiing in the mountains**
 
